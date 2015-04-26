@@ -1,0 +1,5 @@
+name: ${project.artifactId}
+main: org.originmc.indevsponge.InDevSponge
+authors: [Sudzzy, Byteflux]
+version: ${project.version}
+description: ${project.description}
